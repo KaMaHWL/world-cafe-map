@@ -540,8 +540,8 @@
                  "type":"",
                  "visible":true,
                  "width":155,
-                 "x":547,
-                 "y":350
+                 "x":548,
+                 "y":351
                 }, 
                 {
                  "height":94,
@@ -553,6 +553,177 @@
                  "width":126,
                  "x":575,
                  "y":94
+                }, 
+                {
+                 "height":17,
+                 "id":30,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Roboto Black",
+                     "pixelsize":13,
+                     "text":"Team 6",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":70,
+                 "x":500,
+                 "y":416.5
+                }, 
+                {
+                 "height":17,
+                 "id":31,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Roboto Black",
+                     "pixelsize":13,
+                     "text":"Team 5",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":70,
+                 "x":347,
+                 "y":228.5
+                }, 
+                {
+                 "height":17,
+                 "id":32,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Roboto Black",
+                     "pixelsize":13,
+                     "text":"Team 2",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":70,
+                 "x":118,
+                 "y":258.5
+                }, 
+                {
+                 "height":17,
+                 "id":33,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Roboto Black",
+                     "pixelsize":13,
+                     "text":"Team 4",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":70,
+                 "x":49,
+                 "y":546.5
+                }, 
+                {
+                 "height":17,
+                 "id":34,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Roboto Black",
+                     "pixelsize":13,
+                     "text":"Team 7",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":70,
+                 "x":602,
+                 "y":226.5
+                }, 
+                {
+                 "height":17,
+                 "id":35,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Roboto Black",
+                     "pixelsize":13,
+                     "text":"Lounge",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":70,
+                 "x":691,
+                 "y":295.5
+                }, 
+                {
+                 "height":17,
+                 "id":36,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Roboto Black",
+                     "pixelsize":13,
+                     "text":"Team 1",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":70,
+                 "x":163,
+                 "y":777.5
+                }, 
+                {
+                 "height":17,
+                 "id":37,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Roboto Black",
+                     "pixelsize":13,
+                     "text":"Team 8",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":70,
+                 "x":298,
+                 "y":738.5
+                }, 
+                {
+                 "height":17,
+                 "id":38,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Roboto Black",
+                     "pixelsize":13,
+                     "text":"Team 3",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":70,
+                 "x":448,
+                 "y":650.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -647,7 +818,7 @@
          "y":0
         }],
  "nextlayerid":64,
- "nextobjectid":30,
+ "nextobjectid":39,
  "orientation":"orthogonal",
  "properties":[
         {
