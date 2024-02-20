@@ -975,6 +975,34 @@
          "spacing":0,
          "tilecount":850,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":729,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":730,
+                 "properties":[
+                        {
+                         "name":"coolides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":731,
+                 "properties":[
+                        {
+                         "name":"coolides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
