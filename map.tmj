@@ -989,7 +989,7 @@
                  "id":730,
                  "properties":[
                         {
-                         "name":"coolides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -998,7 +998,7 @@
                  "id":731,
                  "properties":[
                         {
-                         "name":"coolides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
