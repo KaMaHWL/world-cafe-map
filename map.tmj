@@ -794,6 +794,7 @@
                     {
                      "bold":true,
                      "fontfamily":"Roboto Black",
+                     "halign":"right",
                      "pixelsize":13,
                      "text":"RAD",
                      "wrap":true
@@ -801,7 +802,7 @@
                  "type":"",
                  "visible":true,
                  "width":70,
-                 "x":478.333333333333,
+                 "x":472.333333333333,
                  "y":419.5
                 }, 
                 {
