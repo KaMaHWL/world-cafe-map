@@ -948,14 +948,14 @@
                             {
                              "fontfamily":"Segoe UI",
                              "pixelsize":13,
-                             "text":"Click on laptop to give feedback",
+                             "text":"Go to laptop to give feedback",
                              "wrap":true
                             },
                          "type":"",
                          "visible":true,
                          "width":87,
-                         "x":68.5,
-                         "y":341.5
+                         "x":67.5,
+                         "y":324.5
                         }],
                  "opacity":1,
                  "type":"objectgroup",
