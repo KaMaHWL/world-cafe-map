@@ -690,7 +690,7 @@
                  "y":295.5
                 }, 
                 {
-                 "height":17,
+                 "height":39,
                  "id":36,
                  "name":"",
                  "rotation":0,
@@ -699,14 +699,14 @@
                      "bold":true,
                      "fontfamily":"Roboto Black",
                      "pixelsize":13,
-                     "text":"Digital Lab",
+                     "text":"Innovation Hub & Digital Lab",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":70,
-                 "x":163,
-                 "y":777.5
+                 "width":103,
+                 "x":165.666666666667,
+                 "y":838.833333333333
                 }, 
                 {
                  "height":37.5,
